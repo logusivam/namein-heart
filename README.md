@@ -4,7 +4,7 @@ This project showcases a delightful "Name in Heart" design created using HTML an
 
 ## Demo
 
-You can see a live demo of the project [here](logusivam.github.io/namein-heart/).
+You can see a live demo of the project [here](https://logusivam.github.io/namein-heart/).
 
 ## Features
 
