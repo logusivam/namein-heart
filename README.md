@@ -6,6 +6,8 @@ This project showcases a delightful "Name in Heart" design created using HTML an
 
 You can see a live demo of the project [here](https://logusivam.github.io/namein-heart/).
 
+[CLICK HERE TO SUBSCRIBE MY YOUTUBE CHANNEL](https://www.youtube.com/@Logusivamacademy26)
+
 ## Features
 
 - **Heart Design**: The heart symbolizes love and affection, adding a charming touch to your web page.
